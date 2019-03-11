@@ -31,6 +31,20 @@ style: |
 
 </div>
 
+## Что такое ШРИ?
+{:.section}
+
+## Первый этап: лекции
+{:.section}
+
+## Второй этап: проекты
+{:.section}
+
+## Вступительное задание
+{:.section}
+
+
+
 ## Название раздела
 {:.section}
 
@@ -314,13 +328,12 @@ for (var i = 0; i < x; i++) {
 -------
 
 <!-- left -->
-- {:.skype}author
-- {:.mail}author@yandex-team.ru
-- {:.github}author
+- {:.mail}dima117a@yandex-team.ru
+- {:.telegram}dima117a
+- {:.github}dima117
 
 <!-- right -->
-- {:.twitter}@author
-- {:.facebook}author
+
 
 <!-- 
 
