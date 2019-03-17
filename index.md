@@ -70,7 +70,7 @@ style: |
 
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
-## Люди: которые читают лекции
+## Кто читает лекции
 
 - {:.next}разработчики из Яндекса
 - {:.next}участвуют в ШРИ добровольно
