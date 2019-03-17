@@ -5,8 +5,8 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     .rrr { position: absolute; top: 150px; left: 810px;}
-    .reviewexample { position: absolute; left: 60px; height: 100%; }
-
+    .reviewexample { position: absolute; left: 50%; height: 100%; transform: translateX(-50%);}
+    
 ---
 
 # ![](themes/yandex2/images/logo-{{ site.presentation.lang }}.svg){:.logo}
