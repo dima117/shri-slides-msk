@@ -5,6 +5,7 @@ layout: yandex2
 style: |
     /* собственные стили можно писать здесь!! */
     .rrr { position: absolute; top: 150px; left: 810px;}
+    .reviewexample { position: absolute; left: 60px; height: 100%; }
 
 ---
 
@@ -107,7 +108,7 @@ style: |
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](https://jing.yandex-team.ru/files/dima117a/DZ_po_testam_-_Volovod_Dmitrii_by_dimazollo__Pull_Request_64__dima117shri-testing-homework__GitHub_2019-03-17_18-43-37.png)
+![](images/reviewexample.png){:.reviewexample}
 
 ## Второй этап: проекты
 {:.section}
