@@ -89,8 +89,8 @@ style: |
 1. ~~Раскрыть тему подробно~~
 2. {:.next}Сформировать общую картину
 3. {:.next}Объяснить сложные идеи
-<br />
 
+<br /> 
 **домашние задания — чтобы разобратсья в деталях**{:.next}
 
 ## Нужно писать код
@@ -104,6 +104,10 @@ style: |
 </div>
 
 
+## Заголовок будет скрыт
+{:.fullscreen}
+
+![](https://jing.yandex-team.ru/files/dima117a/DZ_po_testam_-_Volovod_Dmitrii_by_dimazollo__Pull_Request_64__dima117shri-testing-homework__GitHub_2019-03-17_18-43-37.png)
 
 ## Второй этап: проекты
 {:.section}
