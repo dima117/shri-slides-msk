@@ -4,7 +4,7 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
-
+    .rrr { position: absolute; top: 150px; left: 810px;}
 
 ---
 
