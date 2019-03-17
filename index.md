@@ -108,7 +108,7 @@ style: |
 ## Заголовок будет скрыт
 {:.fullscreen}
 
-![](images/reviewexample.png){:.reviewexample}
+![](pictures/reviewexample.png){:.reviewexample}
 
 ## Второй этап: проекты
 {:.section}
