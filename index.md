@@ -58,11 +58,13 @@ style: |
 - автотесты
 - инфраструктура проектов
 
+<div class="rrr">
 - архитектура приложений
 - алгоритмы и структуры данных
 - Performance
 - типизация: TypeScript
 - БЭМ
+</div>
 
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
