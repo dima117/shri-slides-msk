@@ -11,7 +11,7 @@ default_lang: en
 default_body_class: list
 
 presentation:
-    title: Про ШРИ
+    title: ШРИ — что внутри?
     service: Субботник
     nda: false
     lang: ru            # ru, en
