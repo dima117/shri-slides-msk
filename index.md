@@ -108,10 +108,15 @@ style: |
 </div>
 
 
-## Заголовок будет скрыт
+## Code rview
 {:.fullscreen}
 
 ![](pictures/reviewexample.png){:.reviewexample}
+
+## Алгоритмический марафон
+{:.fullscreen}
+
+![](pictures/marathon.jpg){:.reviewexample}
 
 ## Второй этап: проекты
 {:.section}
