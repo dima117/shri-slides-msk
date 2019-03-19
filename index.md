@@ -92,9 +92,10 @@ style: |
 - БЭМ
 - дизайн продукта
 </div>
-<br />
-**тренинг: публичные выступления**{:.next}
+<div class="next" markdown="1">
+**тренинг: публичные выступления**
 **тренинг: работа в команде**
+</div>
 
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
