@@ -265,7 +265,17 @@ style: |
 
 ### https://habr.com/ru/company/yandex/blog/439884/
 
-## Фото с хакатона
+## Режим работы 1
+{:.fullscreen}
+
+![](pictures/project1.png)
+
+
+## Режим работы 2
+{:.fullscreen}
+
+![](pictures/project6.png)
+
 
 ## Слайд про итоги ШРИ
 
