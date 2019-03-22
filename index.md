@@ -75,22 +75,22 @@ style: |
 ## Проверка заданий 1
 {:.fullscreen}
 
-![](pictures/check1.jpg)
+![](pictures/check1.png)
 
 ## Проверка заданий 2
 {:.fullscreen}
 
-![](pictures/check2.jpg)
+![](pictures/check2.png)
 
 ## Проверка заданий 3
 {:.fullscreen}
 
-![](pictures/check3.jpg)
+![](pictures/check3.png)
 
 ## Проверка заданий 4
 {:.fullscreen}
 
-![](pictures/check4.jpg)
+![](pictures/check4.png)
 
 ## Первый этап: теория
 {:.section}
