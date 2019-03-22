@@ -6,6 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
     .rrr { position: absolute; top: 150px; left: 810px;}
     .reviewexample { position: absolute; left: 50%; height: 100%; transform: translateX(-50%);}
+    .img-center { margin: 0 auto 60px; }
     
 ---
 
@@ -72,25 +73,13 @@ style: |
 - сверстать макеты
 - "найди ошибки"
 
-## Проверка заданий 1
-{:.fullscreen}
+## Проверка заданий
 
-![](pictures/check1.png)
+![](pictures/check.png){:.img-center}
 
-## Проверка заданий 2
-{:.fullscreen}
-
-![](pictures/check2.png)
-
-## Проверка заданий 3
-{:.fullscreen}
-
-![](pictures/check3.png)
-
-## Проверка заданий 4
-{:.fullscreen}
-
-![](pictures/check4.png)
+- {:.next}5 — на собеседование
+- {:.next}3 — в другой раз
+- {:.next}<b>4 — учитсья в ШРИ</b>
 
 ## Первый этап: теория
 {:.section}
