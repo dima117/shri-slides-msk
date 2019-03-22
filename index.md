@@ -274,8 +274,12 @@ style: |
 ## Режим работы 2
 {:.fullscreen}
 
-![](pictures/project6.png)
+![](pictures/project5.png)
 
+## Режим работы 3
+{:.fullscreen}
+
+![](pictures/project6.png)
 
 ## Слайд про итоги ШРИ
 
