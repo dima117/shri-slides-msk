@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
     .rrr { position: absolute; top: 150px; left: 810px;}
     .reviewexample { position: absolute; left: 50%; height: 100%; transform: translateX(-50%);}
-    .img-center { margin: 0 auto 60px; }
+    .img-center { margin: 120px auto; display: block; }
     
 ---
 
