@@ -254,8 +254,9 @@ style: |
 ![](pictures/shri-account.png)
 
 ## Примеры проектов: библиотека
+{:.fullscreen}
 
-скриншот карта с регионами
+![](pictures/map.png)
 
 ## Примеры проектов: прототип
 {:.fullscreen}
