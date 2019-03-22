@@ -7,6 +7,7 @@ style: |
     .rrr { position: absolute; top: 150px; left: 810px;}
     .reviewexample { position: absolute; left: 50%; height: 100%; transform: translateX(-50%);}
     .img-center { margin: 120px auto; display: block; }
+    .qrcode { display: block; position: absolute; right: 90px; bottom: 60px; }
     
 ---
 
@@ -102,6 +103,8 @@ style: |
 - дизайн продукта
 </div>
 
+![](pictures/code1.gif){:.qrcode}
+
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
 ## Темы лекций
@@ -122,6 +125,8 @@ style: |
 - дизайн продукта
 </div>
 
+![](pictures/code1.gif){:.qrcode}
+
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
 ## Темы лекций
@@ -141,6 +146,8 @@ style: |
 - БЭМ
 - дизайн продукта
 </div>
+
+![](pictures/code1.gif){:.qrcode}
 
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
@@ -166,6 +173,8 @@ style: |
 **тренинг: публичные выступления**
 **тренинг: работа в команде**
 </div>
+
+![](pictures/code1.gif){:.qrcode}
 
 ### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
 
