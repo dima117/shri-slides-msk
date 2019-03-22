@@ -304,7 +304,10 @@ style: |
 
 ![](pictures/project6.png)
 
-## Слайд про итоги ШРИ
+## Вручение дипломов
+{:.fullscreen}
+
+![](pictures/theend.jpg)
 
 ## Зачем проводить ШРИ?
 {:.section}
