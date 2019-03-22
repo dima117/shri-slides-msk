@@ -72,6 +72,26 @@ style: |
 - сверстать макеты
 - "найди ошибки"
 
+## Проверка заданий 1
+{:.fullscreen}
+
+![](pictures/check1.jpg)
+
+## Проверка заданий 2
+{:.fullscreen}
+
+![](pictures/check2.jpg)
+
+## Проверка заданий 3
+{:.fullscreen}
+
+![](pictures/check3.jpg)
+
+## Проверка заданий 4
+{:.fullscreen}
+
+![](pictures/check4.jpg)
+
 ## Первый этап: теория
 {:.section}
 
