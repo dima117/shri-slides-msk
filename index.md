@@ -234,6 +234,29 @@ style: |
 
 ![](pictures/reviewexample.png){:.reviewexample}
 
+## Темы лекций
+
+- адаптивная верстка
+- мультимедиа
+- работа с Git
+- Node.JS
+- автотесты
+- инфраструктура проектов
+
+<div class="rrr" markdown="1">
+- архитектура приложений
+- <b>алгоритмы и структуры данных</b>
+- <b>клиентская производительность</b>
+- типизация: TypeScript
+- БЭМ
+- дизайн продукта
+</div>
+
+![](pictures/code1.gif){:.qrcode}
+
+### [Видеозаписи лекций](https://www.youtube.com/playlist?list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
+
+
 ## Алгоритмический марафон
 {:.fullscreen}
 
