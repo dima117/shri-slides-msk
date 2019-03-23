@@ -323,7 +323,7 @@ style: |
 ## Зачем проводить ШРИ?
 {:.section}
 
-## Спасибо! 
+## Контакты
 {:.contacts}
 
 {% if site.author %}
@@ -364,6 +364,8 @@ style: |
 
 <!-- right -->
 
+## [ШРИ 2019](https://yandex.ru/promo/academy/shri)
+{:.shout}
 
 <!-- 
 
