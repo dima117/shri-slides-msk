@@ -366,11 +366,17 @@ style: |
 <!-- right -->
 
 ## ШРИ — 2019
-{:.shout}
 
-![](pictures/code2.gif){:.qrcode}
+![](themes/yandex2/images/image-right.svg)
+{:.image-right}
+
+- вступительные задания — июнь, июль
+- начало первого этапа — сентябрь
+
+[](pictures/code2.gif)
 
 ### [Оставить заявку](https://yandex.ru/promo/academy/shri)
+
 
 <!-- 
 
