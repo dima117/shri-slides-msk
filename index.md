@@ -367,7 +367,7 @@ style: |
 
 ## ШРИ — 2019
 
-![](themes/yandex2/images/image-right.svg)
+![](pictures/promo.png)
 {:.image-right}
 
 &nbsp;
