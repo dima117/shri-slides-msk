@@ -373,7 +373,7 @@ style: |
 - вступительные задания — июнь, июль
 - начало первого этапа — сентябрь
 
-[](pictures/code2.gif)
+![](pictures/code2.gif)
 
 ### [Оставить заявку](https://yandex.ru/promo/academy/shri)
 
