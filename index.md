@@ -364,8 +364,12 @@ style: |
 
 <!-- right -->
 
-## [ШРИ 2019](https://yandex.ru/promo/academy/shri)
+## ШРИ — 2019
 {:.shout}
+
+![](pictures/code2.gif){:.qrcode}
+
+### [Оставить заявку](https://yandex.ru/promo/academy/shri)
 
 <!-- 
 
