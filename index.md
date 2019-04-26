@@ -208,6 +208,11 @@ style: |
 - {:.next}участвуют в ШРИ добровольно
 - {:.next} повторное чтение лекций
 
+## [Лекция: работа с Git](https://www.youtube.com/watch?v=yDSs80lu3ak&list=PLKaafC45L_SRqYQW-nFYw8bOlm3IYc2BI)
+{:.shout}
+
+![](pictures/code111.gif){:.qrcode}
+
 ## Информацию трудно воспринимать на слух
 {:.blockquote}
 
