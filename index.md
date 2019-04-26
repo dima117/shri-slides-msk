@@ -8,7 +8,7 @@ style: |
     .reviewexample { position: absolute; left: 50%; height: 100%; transform: translateX(-50%);}
     .img-center { margin: 120px auto; display: block; }
     .qrcode { display: block; position: absolute; right: 0; bottom: 0; }
-    .shout .qrcode { bottom: -120px; }
+    .shout .qrcode { bottom: -150px; right: -150px; }
     
 ---
 
