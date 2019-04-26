@@ -252,7 +252,11 @@ style: |
 ## Code rview
 {:.fullscreen}
 
-![](pictures/reviewexample.png){:.reviewexample}
+![](pictures/reviewexample.png)
+
+<figure markdown="1">
+Алгоритмический марафон
+</figure>
 
 ## Темы лекций
 
