@@ -252,11 +252,7 @@ style: |
 ## Code rview
 {:.fullscreen}
 
-![](pictures/reviewexample.png)
-
-<figure markdown="1">
-Алгоритмический марафон
-</figure>
+![](pictures/reviewexample.png){:.reviewexample}
 
 ## Темы лекций
 
@@ -284,7 +280,11 @@ style: |
 ## Алгоритмический марафон
 {:.fullscreen}
 
-![](pictures/marathon.jpg){:.reviewexample}
+![](pictures/marathon.jpg)
+
+<figure markdown="1">
+Алгоритмический марафон
+</figure>
 
 ## Второй этап: практика
 {:.section}
